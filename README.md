@@ -1,3 +1,4 @@
+
 # Employee Attrition & Retention Analytics Dataset
 HR Workforce Data for EDA, Classification, and Predictive Analytics
 
@@ -46,7 +47,7 @@ Fields Used: Department, Attrition
 Why it matters:
 Identifies high-risk departments needing intervention.
 
-# 📊 Business Analysis Questions (Simple to Moderate)
+# 📊 Business Analysis Questions
 
 1️⃣   Which department has the highest employee attrition?
 👉 Helps HR focus retention strategies department-wise.
